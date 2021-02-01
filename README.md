@@ -5,9 +5,9 @@
 • Hi there 👋, my name is Mert. I am software developer. I do my best to improve my knowledge continuously i worked for network and operation system in a subcontractor company.I am looking for..
 
 ## Hello World!! 😃
-- 📫 LinkedIn profile: [Suvodeep Sinha](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
-- 🐦 Twitter : [suvoo_o](https://twitter.com/mertysff)
-- 🔔 Instagram:- [suvoo_o](https://www.instagram.com/mertyusufkutlu)
+- 📫 LinkedIn profile: [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
+- 🐦 Twitter : [mertysff](https://twitter.com/mertysff)
+- 🔔 Instagram:- [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
 
 
