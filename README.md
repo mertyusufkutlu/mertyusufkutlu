@@ -21,13 +21,13 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1612170465~hmac=b84f2bc2de84df80e183d4385302442f" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/c.svg" height="30px" />
+  <img src="https://www.flaticon.com/premium-icon/icons/svg/3665/3665923.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/cplusplus.svg" height="30px" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/423/423068.svg?token=exp=1612170592~hmac=6d3e4f30e84fd215b82bc41200855205" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/python.svg" height="30px" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2570/2570575.svg?token=exp=1612170759~hmac=dfb7e589fbb28d5c93a24c8cf09e339f" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/dot-net.svg" height="30px" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2748/2748233.svg?token=exp=1612170714~hmac=d7016d3071c9e1878f0ae0db8990faf0" height="30px" />
  </p>
 
 
