@@ -23,7 +23,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" height="30px" />
+  <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" height="40px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
