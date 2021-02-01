@@ -21,9 +21,9 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1612170465~hmac=b84f2bc2de84df80e183d4385302442f" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.flaticon.com/premium-icon/icons/svg/3665/3665923.svg" height="30px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/423/423068.svg?token=exp=1612170592~hmac=6d3e4f30e84fd215b82bc41200855205" height="30px" />
+  <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
