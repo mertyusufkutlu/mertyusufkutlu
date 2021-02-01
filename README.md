@@ -11,7 +11,7 @@
 
 **Languages and Tools** 🎨  
 
-<p align="left" style="color:blue;">
+<p align="left">
   <img src="https://simpleicons.org/icons/html5.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/css3.svg" height="24px" />
