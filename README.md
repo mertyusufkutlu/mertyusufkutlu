@@ -25,9 +25,9 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://www.flaticon.com/svg/vstatic/svg/423/423068.svg?token=exp=1612170592~hmac=6d3e4f30e84fd215b82bc41200855205" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/2570/2570575.svg?token=exp=1612170759~hmac=dfb7e589fbb28d5c93a24c8cf09e339f" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/2748/2748233.svg?token=exp=1612170714~hmac=d7016d3071c9e1878f0ae0db8990faf0" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="30px" />
  </p>
 
 
