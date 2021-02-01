@@ -5,13 +5,13 @@
 • My name is Mert. I am software developer. I do my best to improve my knowledge continuously i worked for network and operation system in a subcontractor company.I am looking for..
 
 ## Hello World!! 😃
-- 📫 LinkedIn profile: [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
-- 🐦 Twitter : [mertysff](https://twitter.com/mertysff)
-- 🔔 Instagram:- [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
+- 📫 LinkedIn profile --> [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
+- 🐦 Twitter --> [mertysff](https://twitter.com/mertysff)
+- 🔔 Instagram --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
 **Languages and Tools** 🎨  
 
-<p align="left">
+<p align="left" style="color:blue;">
   <img src="https://simpleicons.org/icons/html5.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/css3.svg" height="24px" />
