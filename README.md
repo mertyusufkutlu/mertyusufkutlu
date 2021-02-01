@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-• My name is Mert. I am software developer. I do my best to improve my knowledge continuously i worked for network and operation system in a subcontractor company.I am looking for..
+• My name is Mert. I am Jr. Software developer. I do my best to improve my knowledge continuously. I am fast learner,hard worker and good team player.Developing and coding are not only a job for me it is also my life style.
 
 ## Hello World!! 😃
 - 📫 LinkedIn profile --> [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
