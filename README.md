@@ -11,13 +11,13 @@
 
 **Languages and Tools** 🎨
 <p align="left">
-  <img src="https://simpleicons.org/icons/html5.svg" height="30px"/>
+  <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1612170919~hmac=57bc421e2b16251eb81ec32a94d3e919" height="30px"/>
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/css3.svg" height="30px" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612170949~hmac=5c03a242f3b29f865951309db577bd31" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/javascript.svg" height="30px" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1612170972~hmac=8cf533c1dbdccb4bea79f332cce5e16e" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/bootstrap.svg" height="30px" />
+  <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1612170465~hmac=b84f2bc2de84df80e183d4385302442f" height="30px" />
   <span>&nbsp;&nbsp;</span>
