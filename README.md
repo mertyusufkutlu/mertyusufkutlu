@@ -9,13 +9,9 @@
 - 🐦 Twitter --> [mertysff](https://twitter.com/mertysff)
 - 🔔 Instagram --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
-**Languages and Tools** 🎨  
-
-<html>
-<body style="background-color:powderblue;">
-
+**Languages and Tools** 🎨
 <p align="left">
-  <img src="https://simpleicons.org/icons/html5.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/html5.svg" height="24px" "background-color:blue;" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/css3.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
@@ -24,8 +20,6 @@
   <img src="https://simpleicons.org/icons/bootstrap.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/jquery.svg" height="24px" />
-  <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/csharp.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
@@ -37,9 +31,6 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/dot-net.svg" height="24px" />
  </p>
-
-</body>
-</html>
 
 
 ![MertKutlu's github stats](https://github-readme-stats.vercel.app/api?username=MertKutlu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
