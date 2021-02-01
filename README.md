@@ -11,7 +11,9 @@
 
 **Languages and Tools** 🎨  
 
-<body style="background-color:blue;">
+<html>
+<body style="background-color:powderblue;">
+
 <p align="left">
   <img src="https://simpleicons.org/icons/html5.svg" height="24px" />
   <span>&nbsp;&nbsp;</span>
@@ -35,7 +37,9 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/dot-net.svg" height="24px" />
  </p>
- </body>
+
+</body>
+</html>
 
 
 ![MertKutlu's github stats](https://github-readme-stats.vercel.app/api?username=MertKutlu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
