@@ -13,23 +13,21 @@
 <p align="left">
   <img src="https://simpleicons.org/icons/html5.svg" height="30px"/>
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/css3.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/css3.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/javascript.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/javascript.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/bootstrap.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/bootstrap.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/jquery.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/csharp.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/csharp.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/c.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/c.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/cplusplus.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/cplusplus.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/python.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/python.svg" height="24px" />
-  <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/dot-net.svg" height="24px" />
+  <img src="https://simpleicons.org/icons/dot-net.svg" height="30px" />
  </p>
 
 
