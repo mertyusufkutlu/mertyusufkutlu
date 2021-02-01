@@ -19,7 +19,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/bootstrap.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://simpleicons.org/icons/csharp.svg" height="30px" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1612170465~hmac=b84f2bc2de84df80e183d4385302442f" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://simpleicons.org/icons/c.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
