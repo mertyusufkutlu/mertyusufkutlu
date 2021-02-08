@@ -14,7 +14,12 @@
      2-JavaScript
      3-AspNet MVC 
      4- HTML5
-     5- -->
+     5- CSS3
+     6- C
+     7- C#
+     8- Pyhton
+     9- .Net Core
+     10 MySQL -->
 
 <p align="left">
   
