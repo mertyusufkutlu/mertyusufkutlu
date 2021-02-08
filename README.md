@@ -15,7 +15,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://img2.pngindir.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg" height="30px" />
+  <img src="https://logodix.com/logo/1796943.jpg" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
