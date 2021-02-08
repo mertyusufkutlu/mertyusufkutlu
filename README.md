@@ -15,7 +15,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://logodix.com/logo/1796943.jpg" height="30px" />
+  <img src="https://repository-images.githubusercontent.com/234870222/1af3f580-4db0-11ea-9120-0692bb7ed717" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
