@@ -11,7 +11,7 @@
 
 **Languages and Tools** 🎨
 <p align="left">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1612170919~hmac=57bc421e2b16251eb81ec32a94d3e919" height="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30px"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612170949~hmac=5c03a242f3b29f865951309db577bd31" height="30px" />
   <span>&nbsp;&nbsp;</span>
