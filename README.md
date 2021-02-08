@@ -10,7 +10,11 @@
 - 🔔 Instagram --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
 **Languages and Tools** 🎨
-<!-- C++ JavaScript AspNet MVC -->
+<!-- 1-C++ 
+     2-JavaScript
+     3-AspNet MVC 
+     4- HTML5
+     5- -->
 
 <p align="left">
   
