@@ -15,7 +15,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1612170972~hmac=8cf533c1dbdccb4bea79f332cce5e16e" height="30px" />
+  <img src="https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured.png.webp" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
