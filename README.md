@@ -19,7 +19,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1612170465~hmac=b84f2bc2de84df80e183d4385302442f" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" />
   <span>&nbsp;&nbsp;</span>
