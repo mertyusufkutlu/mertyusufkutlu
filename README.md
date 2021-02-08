@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='http://octodex.github.com/images/daftpunktocat-guy.gif' width='200"'>
 
 • My name is Mert. I am Jr. Software developer. I do my best to improve my knowledge continuously. I am fast learner,hard worker and good team player.Developing and coding are not only a job for me it is also my life style.
 
