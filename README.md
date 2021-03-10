@@ -26,7 +26,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30px"/>
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30px" />
+  <img src=google.com height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://repository-images.githubusercontent.com/234870222/1af3f580-4db0-11ea-9120-0692bb7ed717" height="30px" />
   <span>&nbsp;&nbsp;</span>
