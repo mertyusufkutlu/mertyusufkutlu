@@ -24,25 +24,25 @@
 <p align="left">
   
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="35px"/>
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://repository-images.githubusercontent.com/234870222/1af3f580-4db0-11ea-9120-0692bb7ed717" height="30px" />
+  <img src="https://repository-images.githubusercontent.com/234870222/1af3f580-4db0-11ea-9120-0692bb7ed717" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="30px" />
+  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://i.pinimg.com/originals/09/7b/34/097b349ab1d78c15744c3a89ff457939.png" height="30px" />
+  <img src="https://i.pinimg.com/originals/09/7b/34/097b349ab1d78c15744c3a89ff457939.png" height="35px" />
  </p>
 
 
