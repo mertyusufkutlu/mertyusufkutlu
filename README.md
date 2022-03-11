@@ -42,7 +42,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://pngset.com/images/microsoft-sql-server-icons-sql-server-2008-text-label-transparent-png-1174332.png" height="45px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" height="45px" />
  </p>
 
 
