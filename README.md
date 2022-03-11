@@ -42,7 +42,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" height="45px" />
+  <img src="https://w7.pngwing.com/pngs/54/251/png-transparent-microsoft-sql-server-microsoft-system-center-configuration-manager-system-center-virtual-machine-manager-database-microsoft-angle-white-windows-server-thumbnail.png" height="45px" />
  </p>
 
 
