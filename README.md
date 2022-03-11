@@ -42,7 +42,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://i.pinimg.com/originals/09/7b/34/097b349ab1d78c15744c3a89ff457939.png" height="45px" />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" height="45px" />
  </p>
 
 
