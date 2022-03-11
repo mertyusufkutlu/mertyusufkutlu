@@ -1,6 +1,6 @@
 <h2> Hello World ^^ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px"></h2>
 
-<img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='450"'>
+<img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='375"'>
 
 • My name is Mert. I am Jr. Software developer. I do my best to improve my knowledge continuously. I am fast learner,hard worker and good team player.Developing and coding are not only a job for me it is also my life style.
 
