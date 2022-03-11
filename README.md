@@ -36,7 +36,7 @@
   <span>&nbsp;&nbsp;</span>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" height="30px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1175240.png" height="30px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30px" />
   <span>&nbsp;&nbsp;</span>
