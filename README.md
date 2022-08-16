@@ -24,7 +24,7 @@
 <p align="left">
   
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="45px"/>
+  <img src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" height="45px"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
