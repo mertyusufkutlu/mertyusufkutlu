@@ -26,22 +26,42 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="45px"/>
   <span>&nbsp;&nbsp;</span>
+     
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="45px"/>
+  <span>&nbsp;&nbsp;</span>
+     
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/640px-JetBrains_Rider_Icon.svg.png" height="45px" />
+  <span>&nbsp;&nbsp;</span>  
+     
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
+     
+  <img src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png" height="45px" />
+  <span>&nbsp;&nbsp;</span>
+     
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://repository-images.githubusercontent.com/234870222/1af3f580-4db0-11ea-9120-0692bb7ed717" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
+     
   <img src="https://logodix.com/logo/696504.png" height="45px" />
  </p>
 
