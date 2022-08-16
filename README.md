@@ -33,6 +33,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/640px-JetBrains_Rider_Icon.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>  
      
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" height="45px" />
+  <span>&nbsp;&nbsp;</span>     
+     
+  <img src="https://allvectorlogo.com/img/2019/06/elastic-elasticsearch-logo-vector.png" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
+     
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
+     
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span> 
      
