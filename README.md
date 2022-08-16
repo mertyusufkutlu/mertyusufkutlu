@@ -24,7 +24,7 @@
 <p align="left">
   
 
-  <img src="[https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg](https://tr.m.wikipedia.org/wiki/Dosya:Angular_full_color_logo.svg)" height="45px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="45px"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
