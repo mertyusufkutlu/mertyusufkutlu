@@ -9,7 +9,7 @@
 - 🐦 Twitter --> [mertyusufkutlu](https://twitter.com/mertyusufkutlu)
 - 🔔 Instagram --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
-**Languages and Tools** 🎨
+**Languages | Tools** 🎨
 <!-- 1-C++ 
      2-JavaScript
      3-AspNet MVC 
