@@ -39,7 +39,7 @@
   <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" height="45px" />
   <span>&nbsp;&nbsp;</span> 
      
-  <img src="[https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)" height="45px" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>   
      
   <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" height="45px" />
