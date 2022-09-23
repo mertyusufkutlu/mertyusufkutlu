@@ -1,14 +1,18 @@
-<h2> Hello World ^^ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px"></h2>
+<h3> Hello World ^^ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px"></h2>
 
 <img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='375"'>
 
-• My name is Mert. I am Software developer. I do my best to improve my knowledge continuously. I am fast learner,hard worker and good team player.Developing and coding are not only a job for me it is also my life style.
+<h4 align="center">• My name is Mert. I am Software developer. I do my best to improve my knowledge continuously. I am fast learner,hard worker and good team player.Developing and coding are not only a job for me it is also my life style.</h4>
 
+<div align="left">
 ## Contact
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />[](url)  --> [mertyusufkutlu](https://twitter.com/mertyusufkutlu)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
+</div>    
+
+<div align="center">
 **Languages | Tools** 🎨
 <!-- 1-C++ 
      2-JavaScript
@@ -20,9 +24,6 @@
      8- Pyhton
      9- .Net Core
      10 MySQL -->
-
-<p align="left">
-  
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="45px"/>
   <span>&nbsp;&nbsp;</span>
@@ -97,7 +98,7 @@
      
   <img src=" https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>   
- </p>
+ </div> 
  
  
 <div align="center">    
