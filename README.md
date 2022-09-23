@@ -42,7 +42,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>   
      
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="45px" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span> 
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="45px" />
