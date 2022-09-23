@@ -53,7 +53,7 @@
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://repository-images.githubusercontent.com/234870222/1af3f580-4db0-11ea-9120-0692bb7ed717" height="45px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="45px" />
