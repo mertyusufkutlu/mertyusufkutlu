@@ -80,7 +80,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
-  <img src="https://logodix.com/logo/696504.png" height="45px" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
   
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="45px" />
