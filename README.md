@@ -4,12 +4,12 @@
 
 • My name is Mert. I am Full Stack Software Developer. I do my best to improve my knowledge continuously. I am fast learner,hard worker and good team player.Developing and coding are not only a job for me it is also my life style.
 
-## Contact
+## **Contact**
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />[](url)  --> [mertyusufkutlu](https://twitter.com/mertyusufkutlu)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
 
-**Languages | Tools** 🎨
+##**Languages | Tools** 🎨
 <!-- 1-C++ 
      2-JavaScript
      3-AspNet MVC 
