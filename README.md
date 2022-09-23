@@ -48,7 +48,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span> 
      
-  <img src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png" height="45px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45px" />
