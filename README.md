@@ -103,7 +103,8 @@
  </p>
 
 
-![MertKutlu's github stats](https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![MertKutlu's github stats]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&locale=en&layout=compact" alt="mertyusufkutlu" /></p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertyusufkutlu&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
 
