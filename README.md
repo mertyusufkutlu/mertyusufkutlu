@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Contact</h3>
-<div align="center">
+<div align="left">
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />[](url)  --> [mertyusufkutlu](https://twitter.com/mertyusufkutlu)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
