@@ -103,9 +103,7 @@
  </p>
 
 
-![MertKutlu's github stats]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&locale=en&layout=compact" alt="mertyusufkutlu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&locale=en&layout=compact" alt="mertyusufkutlu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&locale=en" alt="mertyusufkutlu" /></p>
 
-
-![Stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&locale=en" alt="mertyusufkutlu" /></p>
-
-![]<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertyusufkutlu&" alt="mertyusufkutlu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertyusufkutlu&" alt="mertyusufkutlu" /></p>
