@@ -100,8 +100,8 @@
  
  
 <p align="left">  
-<p><img src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=radical" alt="mertyusufkutlu"/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&theme=radical" alt="mertyusufkutlu"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=radical" alt="mertyusufkutlu"/>  
+<p><img src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=chartreuse-dark" alt="mertyusufkutlu"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&theme=chartreuse-dark" alt="mertyusufkutlu"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=chartreuse-dark" alt="mertyusufkutlu"/>  
 </p>
  
