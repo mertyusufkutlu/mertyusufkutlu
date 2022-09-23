@@ -91,9 +91,9 @@
      
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>   
-     
-     
-     
+          
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="45px" />
+  <span>&nbsp;&nbsp;</span>  
      
      
  </p>
