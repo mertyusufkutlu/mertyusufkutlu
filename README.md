@@ -36,7 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>     
      
-  <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" height="45px" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span> 
      
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="45px" />
@@ -75,7 +75,7 @@
   <span>&nbsp;&nbsp;</span>
   
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="45px" />
-  <span>&nbsp;&nbsp;</span>[](url)
+  <span>&nbsp;&nbsp;</span>
      
      
      
