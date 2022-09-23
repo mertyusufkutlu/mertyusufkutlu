@@ -105,7 +105,10 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=radical" alt="mertyusufkutlu" />
        <br>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&theme=radical" alt="mertyusufkutlu"/>
-       <br>
+       </br>
+        </br>
+         </br>
+          </br>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=radical" alt="mertyusufkutlu" />
      
 ![](https://komarev.com/ghpvc/?username=mertyusufkutlu&color=blue)
