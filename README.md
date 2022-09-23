@@ -105,5 +105,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=gotham" alt="mertyusufkutlu" />
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyusufkutlu&show_icons=true&theme=gotham" alt="mertyusufkutlu"/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=gotham" alt="mertyusufkutlu" />
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufkutlu&show_icons=true&theme=gotham" alt="mertyusufkutlu" />
 
