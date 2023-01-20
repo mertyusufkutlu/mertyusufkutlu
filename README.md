@@ -96,6 +96,10 @@
      
   <img src=" https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>   
+     
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="45px" />
+  <span>&nbsp;&nbsp;</span>  
+     
  </p>
  
  
