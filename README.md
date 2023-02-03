@@ -100,6 +100,10 @@
    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" height="45px" />
   <span>&nbsp;&nbsp;</span>   
      
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45px" />
+  <span>&nbsp;&nbsp;</span>   
+    
+     
  </p>
  
  
