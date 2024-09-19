@@ -59,7 +59,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
-  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" />
