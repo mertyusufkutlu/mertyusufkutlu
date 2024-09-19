@@ -17,7 +17,6 @@
      5- CSS3
      6- C
      7- C#
-     8- Pyhton
      9- .Net Core
      10 MySQL -->
 
