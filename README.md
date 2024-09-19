@@ -15,7 +15,6 @@
      3-AspNet MVC 
      4- HTML5
      5- CSS3
-     6- C
      7- C#
      9- .Net Core
      10 MySQL -->
@@ -61,12 +60,6 @@
   <span>&nbsp;&nbsp;</span>
      
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
-  <span>&nbsp;&nbsp;</span>
-     
-  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="45px" />
-  <span>&nbsp;&nbsp;</span>
-     
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" />
