@@ -4,9 +4,16 @@
 <br>
 <br>
 <h1>Contact</h1>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" />
+<a href="https://www.linkedin.com/in/mertyusufkutlu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" />
+</a>
+<a href="https://twitter.com/mertyusufkutlu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/mertyusufkutlu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" />
+</a>
+
 Technologies
 
 <h1>Backend Technologies</h1>
