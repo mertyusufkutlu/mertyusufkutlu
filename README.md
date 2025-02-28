@@ -1,7 +1,5 @@
 <h2> Hello World ^^ <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="55px"></h2>
-<img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='350"'>
-• My name is Mert. 
-  I am Backend & Full Stack Software Developerk. I like to follow different technologies. I am curious about software development. I am someone who has adopted the principle of self-renewal and continuous improvement.
+• My name is Mert. I am a Backend Software Developer passionate about building scalable and efficient solutions. I value continuous improvement, stay updated with new technologies, and strive to deliver high-quality results.
   
 Contact
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" /> --> Mert Yusuf Kutlu
