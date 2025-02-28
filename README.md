@@ -4,7 +4,7 @@
 <br>
 <br>
 <h1>Contact</h1>
-<a href="https://www.linkedin.com/in/mertyusufkutlu" target="https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/">
+<a href="https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" />
 </a>
 
