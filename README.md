@@ -2,7 +2,8 @@
 • My name is Mert. I am a Backend Software Developer passionate about building scalable and efficient solutions. I value continuous improvement, stay updated with new technologies, and strive to deliver high-quality results.
 
 <br>
-Contact
+<br>
+<h1>Contact</h1>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" /> --> Mert Yusuf Kutlu
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" /> --> mertyusufkutlu 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" /> --> mertyusufkutlu 
