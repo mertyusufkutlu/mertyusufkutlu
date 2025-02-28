@@ -4,17 +4,9 @@
 <br>
 <br>
 <h1>Contact</h1>
-<a href="https://www.linkedin.com/in/mertyusufkutlu" target="_blank">
+<a href="https://www.linkedin.com/in/mertyusufkutlu" target="https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" />
 </a>
-<a href="https://twitter.com/mertyusufkutlu" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/mertyusufkutlu" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" />
-</a>
-
-Technologies
 
 <h1>Backend Technologies</h1>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="45px" /> <span>&nbsp;&nbsp;</span> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="45px" /> <span>&nbsp;&nbsp;</span> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="45px" /> <span>&nbsp;&nbsp;</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="45px" /> </p>
